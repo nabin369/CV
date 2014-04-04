@@ -31,7 +31,7 @@ Education
 [Linkedin]: http://www.linkedin.com/profile/view?id=235773751&trk=nav_responsive_tab_profile
 [details]: http://www.mdx.ac.uk/courses/undergraduate/computing_it/computer_science_bsc.aspx
 [Full Stack People]: https://github.com/nabin369/Final-Project 
-[Snappygram]: 
+[Snappygram]: https://github.com/nabin369/Snappygram 
 [@CrowdHailer]: https://github.com/CrowdHailer
 [@Roy-Gardiner]: https://github.com/Roy-Gardiner
 [@ColinFrankish]: https://github.com/ColinFrankish
