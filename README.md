@@ -9,14 +9,8 @@ My Repos
 
 | [Full Stack People]	 	 |[Snappygram]		 |
 |:------------------------------:|----------------------:|
-|Showcase of _Makers_Academy's_  |			 |
-|current, graduated students for |			 |
-|employer to view the profile of |			 |
-|students.			 |			 |
-|_created by_[@CrowdHailer], 	 | 			 |
-|[@Roy-Gardiner],[@ColinFrankish]|			 |
-|[@MihailiviuCojocar],		 |			 |
-|[@Rolando-Barbella]		 |			 |
+|Showcase of _Makers_Academy's_current, graduated students for employer to view the profile of students.|			 |
+|_created by_[@CrowdHailer], [@Roy-Gardiner], [@ColinFrankish], [@MihailiviuCojocar], [@Rolando-Barbella]|			 |
 
 
 Education
