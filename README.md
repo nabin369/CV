@@ -7,10 +7,10 @@ Nabin Rai
 My Repos 
 ---
 
-| [Full Stack People]	 	 |[Snappygram]		 |
+| [Full Stack People]	 	 | [Snappygram]		 |
 |:------------------------------:|----------------------:|
-|Showcase of _Makers_Academy's_current, graduated students for employer to view the profile of students.|			 |
-|_created by_[@CrowdHailer], [@Roy-Gardiner], [@ColinFrankish], [@MihailiviuCojocar], [@Rolando-Barbella]|			 |
+|Showcase of _Makers_Academy's_current, graduated students for employer to view the profile of students.|Website where user can upload, buy and sell pictures.|
+|_created with_ [@CrowdHailer], [@Roy-Gardiner], [@ColinFrankish], [@MihailiviuCojocar], [@Rolando-Barbella]|_created with_ [@NotTheUsual] and [@jorjahung].|
 
 
 Education
@@ -38,3 +38,5 @@ Education
 [@ColinFrankish]: https://github.com/ColinFrankish
 [@MihaiLiviuCojocar]: https://github.com/MihaiLiviuCojocar
 [@Rolando-Barbella]: https://github.com/Rolando-Barbella
+[@NotTheUsual]: https://github.com/NotTheUsual
+[@jorjahung]: https://github.com/jorjahung
