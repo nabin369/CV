@@ -1,17 +1,15 @@
 Nabin Rai
-=========
+***
 
 [Twitter] - [Linkedin]
 
-
 Education
----------
+---
 
 #### Makers Academy
 ###### Jan 2014 - March 2014
 Highly intensive web development programme focused on Ruby. 
 My final project: Full stack people
-
 
 #### Middlesex University
 ###### 2011 - 2013
