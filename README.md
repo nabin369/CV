@@ -8,7 +8,7 @@ My Repos
 ---
 
 | [Full Stack People]	 	 |[Snappygram]		 |
-|:--------------------		:|-------------		:|
+|:------------------------------:|----------------------:|
 |Showcase of _Makers_Academy's_  |			 |
 |current, graduated students for |			 |
 |employer to view the profile of |			 |
