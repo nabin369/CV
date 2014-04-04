@@ -7,7 +7,7 @@ My Repos
 ---
 
 | [Full Stack People]	  |[Snappygram]		 |
-|:------------------------|:--------------------:|
+|:------------------------|:---------------------|
 |Showcase of _Makers_Academy's_current, graduated students for employer to view the profile of students.|Website where user can upload, buy and sell pictures.|
 |_created with_ [@CrowdHailer], [@Roy-Gardiner], [@ColinFrankish], [@MihailiviuCojocar], [@Rolando-Barbella]|_created with_ [@NotTheUsual] and [@jorjahung].|
 
