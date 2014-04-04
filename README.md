@@ -1,8 +1,8 @@
 Nabin Rai
 ===
-***
 
 [Twitter] - [Linkedin]
+***
 
 Education
 ---
