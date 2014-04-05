@@ -20,7 +20,7 @@ Education
 >Highly intensive web development programme focused on **Ruby**. 
 >My final project: Full stack people
 
-#### Middlesex University
+####:gb: Middlesex University
 >###### 2011 - 2013
 >BSc Honours **Computer Science** degree. Further [details]
 
