@@ -25,6 +25,21 @@ Education
 >BSc Honours **Computer Science** degree. Further [details]
 
 
+<dl>
+	<dt>Key Skills</dt>
+		<dd>Ruby</dd>
+		<dd>Ruby on Rails</dd>
+	<dt>Also has knowledge on</dt>
+		<dd>JavaScript</dd> 
+		<dd>HTML5</dd>
+		<dd>CSS</dd>
+		<dd>SASS</dd>
+		<dd>Git</dd>
+		<dd>RSpec</dd>
+		<dd>Cucumber</dd>
+		<dd>Capybara</dd>
+		<dd>PostgreSQL</dd>
+</dl>
 
 
 [Twitter]: https://twitter.com/nabinrai369
