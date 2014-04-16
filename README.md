@@ -10,7 +10,7 @@ My Repos
 |:------------------------|:---------------------|
 |Showcase of _Makers_Academy's_current, graduated students for employer to view the profile of students.|Website where user can upload, buy and sell pictures.|
 |_created with_ [@CrowdHailer], [@Roy-Gardiner], [@ColinFrankish], [@MihailiviuCojocar], [@Rolando-Barbella]|_created with_ [@NotTheUsual] and [@jorjahung].|
-
+---------
 
 Education
 ---
@@ -25,8 +25,8 @@ Education
 >BSc Honours **Computer Science** degree. Further [details]
 
 -------------
-##Key Skills
-
+Key Skills
+---
 * Ruby, Ruby on Rails
 * JavaScript, HTML5, CSS, SASS, Sinatra, Git, RSpec, Cucumber, PostgreSQL,
 
