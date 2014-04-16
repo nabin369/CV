@@ -2,7 +2,6 @@ Nabin Rai
 ===
 
 [Twitter] - [Linkedin]
---------
 
 My Repos 
 ---
@@ -13,7 +12,6 @@ My Repos
 |_created with_ [@CrowdHailer], [@Roy-Gardiner], [@ColinFrankish], [@MihailiviuCojocar], [@Rolando-Barbella]|_created with_ [@NotTheUsual] and [@jorjahung].|
 
 ---------
-
 
 Education
 ---
