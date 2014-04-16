@@ -25,8 +25,8 @@ Education
 >BSc Honours **Computer Science** degree. Further [details]
 
 
-Key Skills
-===
+###Key Skills
+
 * Ruby, Ruby on Rails
 * JavaScript, HTML5, CSS, SASS, Git, RSpec, Cucumber, PostgreSQL,
 
